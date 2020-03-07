@@ -1,3 +1,5 @@
+List<MyDefinitionId> itemBlueprints = new List<MyDefinitionId>();
+
 string[] componentSubtypeStrings = { "BulletproofGlass", "Canvas", "Computer", "Construction", "Detector",
                                              "Display", "Explosives", "Girder", " GravityGenerator", "InteriorPlate",
                                              "LargeTube", "Medical", "MetalGrid", "Motor", "PowerCell",
